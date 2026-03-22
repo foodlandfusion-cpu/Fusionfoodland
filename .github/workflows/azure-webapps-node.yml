@@ -1,0 +1,166 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fusion Foodland | Investor Overview</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #0b0f14;
+    color: #e6edf3;
+}
+
+header {
+    padding: 60px 20px;
+    text-align: center;
+    background: linear-gradient(135deg, #111827, #020617);
+}
+
+h1 {
+    font-size: 42px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #38bdf8;
+    margin-top: 40px;
+}
+
+p {
+    max-width: 900px;
+    margin: 10px auto;
+    line-height: 1.6;
+}
+
+.container {
+    padding: 40px 20px;
+}
+
+.card {
+    background: #111827;
+    padding: 20px;
+    margin: 15px auto;
+    max-width: 900px;
+    border-radius: 10px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.highlight {
+    color: #22c55e;
+    font-weight: bold;
+}
+
+.footer {
+    text-align: center;
+    padding: 30px;
+    font-size: 14px;
+    color: #9ca3af;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>Fusion Foodland</h1>
+    <p>Precision Nutrition at the Speed of Moscow</p>
+    <p class="highlight">1 Ruble = 1 Gram | AI-Driven | 24/7 Industrial Kitchen</p>
+</header>
+
+<div class="container">
+
+    <h2>The Opportunity</h2>
+    <p>Moscow’s Ready-to-Eat market is fragmented, expensive, and lacks transparency. Fusion Foodland delivers a scalable solution combining industrial efficiency, AI-driven personalization, and a disruptive pricing model.</p>
+
+    <h2>The Concept</h2>
+    <div class="card">
+        <p><strong>Global Fusion Cuisine:</strong> Asian, Russian, Slavic, Mediterranean</p>
+        <p><strong>1:1 Pricing Model:</strong> Full transparency (1 Ruble per Gram)</p>
+        <p><strong>Health Focus:</strong> Precision tracking of calories, protein, fiber, minerals</p>
+        <p><strong>Dietary Safety:</strong> Gluten-free, lactose-free, allergen-controlled</p>
+    </div>
+
+    <h2>Product Line</h2>
+    <div class="grid">
+        <div class="card">Fusion Light<br>350g | 350 ₽ | 480 Kcal</div>
+        <div class="card">Fusion Comfort<br>399g | 399 ₽ | 1050 Kcal</div>
+        <div class="card">Fusion Executive<br>425g | 425 ₽ | 1550 Kcal</div>
+        <div class="card">Fusion Super<br>500g | 500 ₽ | 2250 Kcal</div>
+        <div class="card">Fusion Special<br>700g | 700 ₽ | 2850 Kcal</div>
+    </div>
+
+    <h2>Technology</h2>
+    <div class="card">
+        <p><strong>AI Nutrition Engine:</strong> Personalized meal optimization</p>
+        <p><strong>Allergen Gatekeeper:</strong> 100% ingredient safety filtering</p>
+        <p><strong>Microservices Architecture:</strong> Scalable backend infrastructure</p>
+    </div>
+
+    <h2>Operations</h2>
+    <div class="card">
+        <p>24/7 industrial kitchen with multi-cuisine production lines</p>
+        <p>Direct farm sourcing ("Green Farm" model)</p>
+        <p>In-house delivery system (no third-party dependency)</p>
+    </div>
+
+    <h2>B2B Strategy</h2>
+    <div class="card">
+        <p>Private Schools</p>
+        <p>Rehabilitation Centers</p>
+        <p>Corporate Canteens</p>
+        <p>24/7 availability + medical-grade nutrition tracking</p>
+    </div>
+
+    <h2>Regulatory Compliance</h2>
+    <div class="card">
+        <p>SanPiN, HACCP compliant</p>
+        <p>Full traceability via Mercury system</p>
+        <p>Eco-friendly Japanese packaging</p>
+    </div>
+
+    <h2>Investment</h2>
+    <div class="card">
+        <p><strong>Seeking:</strong> $2,000,000 USD</p>
+        <p>40% – Kitchen & Equipment</p>
+        <p>30% – AI & IT Infrastructure</p>
+        <p>20% – Logistics</p>
+        <p>10% – Marketing & Partnerships</p>
+    </div>
+
+    <h2>Roadmap</h2>
+    <div class="card">
+        <p>Phase 1: Moscow launch + 3 institutional partners</p>
+        <p>Phase 2: Expansion to Fusion Pods</p>
+        <p>Phase 3: Full AI metabolic tracking integration</p>
+    </div>
+
+    <h2>Management</h2>
+    <div class="card">
+        <p><strong>Utpal Chowdhury</strong> – Chairman (20+ years global business leadership)</p>
+        <p><strong>Stanislav Pushtorskiy</strong> – General Director (15+ years finance & operations)</p>
+    </div>
+
+    <h2>Investor Access</h2>
+    <div class="card">
+        <p>Live AI Demonstration</p>
+        <p>Industrial Kitchen Tour</p>
+        <p>Product Tasting Session</p>
+    </div>
+
+</div>
+
+<div class="footer">
+    © U-S Foods LLC | Fusion Foodland | Investor Relations
+</div>
+
+</body>
+</html>
